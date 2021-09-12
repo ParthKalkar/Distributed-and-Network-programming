@@ -6,6 +6,7 @@ To run - Download the file - open terminal in that folder -
 ** Make sure that the server.py is running before running this file **
 
 """
+
 from xmlrpc.client import ServerProxy
 from pathlib import Path
 import sys
