@@ -3,6 +3,7 @@
 To run - Download the file - open terminal in that folder -
          type "python3 server1.py port"
 """
+
 import binascii
 import socket
 import json
