@@ -8,6 +8,7 @@ To run - Download the file - open terminal in that folder -
 ** Also, make sure you have innopolis.jpg or any file that you wanna send in the same folder **
 
 """
+
 import binascii
 import os
 import socket
